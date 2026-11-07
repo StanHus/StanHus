@@ -6,6 +6,8 @@ VP, AI Centre of Excellence at **Trilogy** · Founder of **[Expanova](https://ex
 
 [huseletov.com](https://www.huseletov.com) · [expanova.io](https://expanova.io) · [LinkedIn](https://www.linkedin.com/in/huseletov/) · [stanislav.huseletov@gmail.com](mailto:stanislav.huseletov@gmail.com)
 
+[![Google me](https://img.shields.io/badge/Google%20me-huseletov-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.google.com/search?q=huseletov)
+
 ---
 
 **What I do at work** (employer code stays private, so here is the shape of it)
@@ -24,7 +26,9 @@ VP, AI Centre of Excellence at **Trilogy** · Founder of **[Expanova](https://ex
 | [**pnrd2-guard**](https://github.com/StanHus/pnrd2-guard) | The soundness gate from the lab's Dafny study. Separates genuinely solved programs from ones that game the spec. Small enough to read in ten minutes. |
 | [**tg-notetaker**](https://github.com/StanHus/tg-notetaker) | Part of **Shadow**, my personal agent: joins Telegram voice chats, transcribes and posts the notes. Written by the agent itself. |
 
-**Writing:** [How to do agentic development](https://huseletov.com/posts/how-to-do-agentic-development) · [How to OpenClaw](https://huseletov.com/posts/how-to-openclaw) · [How to Shadow](https://trilogyai.substack.com/p/how-to-shadow)
+**Writing:** [Spiky points of view](https://www.huseletov.com/spiky-points-of-view) · [How to do agentic development](https://huseletov.com/posts/how-to-do-agentic-development) · [How to OpenClaw](https://huseletov.com/posts/how-to-openclaw) · [How to Shadow](https://trilogyai.substack.com/p/how-to-shadow)
+
+**Also:** [**WWVCD**](https://github.com/StanHus/WWVCD) (*What Would Vin Claudel Do?*): `npx wwvcd "<problem>"` searches a database of agent-architecture patterns for how state-of-the-art coding agents handle the edge case your agent is stuck on.
 
 **Open source elsewhere:** contributor to [OGP, the Open Gateway Protocol](https://github.com/dp-pcs/ogp) for federated agent-to-agent communication.
 

@@ -6,7 +6,7 @@ VP, AI Centre of Excellence at **Trilogy** · Founder of **[Expanova](https://ex
 
 [huseletov.com](https://www.huseletov.com) · [expanova.io](https://expanova.io) · [LinkedIn](https://www.linkedin.com/in/huseletov/) · [stanislav.huseletov@gmail.com](mailto:stanislav.huseletov@gmail.com)
 
-[![Google indexes me](https://img.shields.io/badge/Google%20indexes%20me-huseletov-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.google.com/search?q=huseletov) [![agentize downloads](https://img.shields.io/npm/dt/agentize?style=for-the-badge&logo=npm&label=agentize%20downloads&color=CB3837)](https://www.npmjs.com/package/agentize) [![youragent downloads](https://img.shields.io/npm/dt/youragent?style=for-the-badge&logo=npm&label=youragent%20downloads&color=CB3837)](https://www.npmjs.com/package/youragent) [![wwvcd downloads](https://img.shields.io/npm/dt/wwvcd?style=for-the-badge&logo=npm&label=wwvcd%20downloads&color=CB3837)](https://www.npmjs.com/package/wwvcd)
+[![Google indexes me](https://img.shields.io/badge/Google%20indexes%20me-huseletov-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.google.com/search?q=huseletov) <br /> [![agentize downloads](https://img.shields.io/npm/dt/agentize?style=for-the-badge&logo=npm&label=agentize%20downloads&color=CB3837)](https://www.npmjs.com/package/agentize) [![youragent downloads](https://img.shields.io/npm/dt/youragent?style=for-the-badge&logo=npm&label=youragent%20downloads&color=CB3837)](https://www.npmjs.com/package/youragent) [![wwvcd downloads](https://img.shields.io/npm/dt/wwvcd?style=for-the-badge&logo=npm&label=wwvcd%20downloads&color=CB3837)](https://www.npmjs.com/package/wwvcd)
 
 ---
 
